@@ -219,8 +219,8 @@ nav ul li a:hover::after {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
-  max-height: 100px; /* Add a max height to the paragraph */
-  overflow: auto; /* Make the text scrollable if it's too long */
+  max-height: 100px;
+  overflow: auto;
 }
 .layer a {
   margin-top: 20px;
